@@ -45,8 +45,8 @@
 
 
 ### 与其他脚手架的区别
- 1. 与 mars3d-angular-cli区别（当前未开源）：
-  lib包的引入方式不同，mars3d-angular-cli是npm安装import方式，当前是head静态资源引入
+1. 与 [mars3d-angular-cli](https://github.com/marsgis/mars3d-angular-cli)区别：
+  lib包的引入方式不同，当前是head静态资源引入，mars3d-angular-cli是npm安装import引入方式。
 
  2. 与 [mars3d-simple-angular-widget](https://github.com/marsgis/mars3d-simple-angular-widget)区别：
   比其少了widget模块部分，其他没区别
